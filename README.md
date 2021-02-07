@@ -1,4 +1,4 @@
-#Basic SpringBoot API using an in-memory H2 Database
+# Basic SpringBoot API using an in-memory H2 Database
 
 To see this project explained take a look at the tutorial used to create it - [Dev Gains Tutorial](https://devgains.com/articles/build-a-spring-boot-api-with-an-h2-in-memory-database)
 
